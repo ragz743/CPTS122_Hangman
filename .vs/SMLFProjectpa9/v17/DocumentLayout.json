@@ -1,0 +1,505 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\PA9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|solutionrelative:SMLFProjectpa9\\PA9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|solutionrelative:SMLFProjectpa9\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\Hard.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|solutionrelative:SMLFProjectpa9\\Hard.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|solutionrelative:SMLFProjectpa9\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\Places.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|solutionrelative:SMLFProjectpa9\\Places.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\BodyPart.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|solutionrelative:SMLFProjectpa9\\BodyPart.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\Letter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|solutionrelative:SMLFProjectpa9\\Letter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\PA9.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|solutionrelative:SMLFProjectpa9\\PA9.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\Game.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|solutionrelative:SMLFProjectpa9\\Game.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\Easy.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|solutionrelative:SMLFProjectpa9\\Easy.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\RightArm.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|solutionrelative:SMLFProjectpa9\\RightArm.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\Hangman.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|solutionrelative:SMLFProjectpa9\\Hangman.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\Hangman.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|solutionrelative:SMLFProjectpa9\\Hangman.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\Head.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|solutionrelative:SMLFProjectpa9\\Head.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\Torso.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|solutionrelative:SMLFProjectpa9\\Torso.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\RightLeg.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|solutionrelative:SMLFProjectpa9\\RightLeg.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\LeftLeg.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|solutionrelative:SMLFProjectpa9\\LeftLeg.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\LeftArm.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|solutionrelative:SMLFProjectpa9\\LeftArm.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\Head.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|solutionrelative:SMLFProjectpa9\\Head.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|solutionrelative:SMLFProjectpa9\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\Letter.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|solutionrelative:SMLFProjectpa9\\Letter.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\Word_Bank.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|solutionrelative:SMLFProjectpa9\\Word_Bank.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\Torso.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|solutionrelative:SMLFProjectpa9\\Torso.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\BodyPart.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|solutionrelative:SMLFProjectpa9\\BodyPart.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\RightLeg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|solutionrelative:SMLFProjectpa9\\RightLeg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\RightArm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|solutionrelative:SMLFProjectpa9\\RightArm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\LeftLeg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|solutionrelative:SMLFProjectpa9\\LeftLeg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\LeftArm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|solutionrelative:SMLFProjectpa9\\LeftArm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\Famous_People.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|solutionrelative:SMLFProjectpa9\\Famous_People.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\Medium.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2E540A0C-80B0-4A78-B828-3E0DE2B16E1F}|SMLFProjectpa9\\SMLFProjectpa9.vcxproj|solutionrelative:SMLFProjectpa9\\Medium.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\readme.txt",
+              "RelativeDocumentMoniker": "SMLFProjectpa9\\readme.txt",
+              "ToolTip": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\readme.txt",
+              "RelativeToolTip": "SMLFProjectpa9\\readme.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-25T07:38:27.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RightLeg.hpp",
+              "DocumentMoniker": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\RightLeg.hpp",
+              "RelativeDocumentMoniker": "SMLFProjectpa9\\RightLeg.hpp",
+              "ToolTip": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\RightLeg.hpp",
+              "RelativeToolTip": "SMLFProjectpa9\\RightLeg.hpp",
+              "ViewState": "AQIAAAEAAABgZmZmZuYcwAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-25T04:10:22.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RightArm.hpp",
+              "DocumentMoniker": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\RightArm.hpp",
+              "RelativeDocumentMoniker": "SMLFProjectpa9\\RightArm.hpp",
+              "ToolTip": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\RightArm.hpp",
+              "RelativeToolTip": "SMLFProjectpa9\\RightArm.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-25T04:10:11.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Letter.cpp",
+              "DocumentMoniker": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\Letter.cpp",
+              "RelativeDocumentMoniker": "SMLFProjectpa9\\Letter.cpp",
+              "ToolTip": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\Letter.cpp",
+              "RelativeToolTip": "SMLFProjectpa9\\Letter.cpp",
+              "ViewState": "AQIAAIUAAAAAzMzMzMwnwCwAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-25T03:39:20.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\main.cpp",
+              "RelativeDocumentMoniker": "SMLFProjectpa9\\main.cpp",
+              "ToolTip": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\main.cpp",
+              "RelativeToolTip": "SMLFProjectpa9\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-25T02:50:44.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PA9.cpp",
+              "DocumentMoniker": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\PA9.cpp",
+              "RelativeDocumentMoniker": "SMLFProjectpa9\\PA9.cpp",
+              "ToolTip": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\PA9.cpp",
+              "RelativeToolTip": "SMLFProjectpa9\\PA9.cpp",
+              "ViewState": "AQIAAAMBAAAAAAAAAMAtwFUBAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-25T01:47:33.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Hangman.hpp",
+              "DocumentMoniker": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\Hangman.hpp",
+              "RelativeDocumentMoniker": "SMLFProjectpa9\\Hangman.hpp",
+              "ToolTip": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\Hangman.hpp",
+              "RelativeToolTip": "SMLFProjectpa9\\Hangman.hpp",
+              "ViewState": "AQIAAI0AAAAASDMzMzP7v5kAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-25T02:45:37.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hard.txt",
+              "DocumentMoniker": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\Hard.txt",
+              "RelativeDocumentMoniker": "SMLFProjectpa9\\Hard.txt",
+              "ToolTip": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\Hard.txt",
+              "RelativeToolTip": "SMLFProjectpa9\\Hard.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-25T01:47:33.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Easy.txt",
+              "DocumentMoniker": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\Easy.txt",
+              "RelativeDocumentMoniker": "SMLFProjectpa9\\Easy.txt",
+              "ToolTip": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\Easy.txt",
+              "RelativeToolTip": "SMLFProjectpa9\\Easy.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-25T01:47:33.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Game.hpp",
+              "DocumentMoniker": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\Game.hpp",
+              "RelativeDocumentMoniker": "SMLFProjectpa9\\Game.hpp",
+              "ToolTip": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\Game.hpp",
+              "RelativeToolTip": "SMLFProjectpa9\\Game.hpp",
+              "ViewState": "AQIAAAwAAADAAQAAAAARwB0AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-25T02:46:58.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PA9.hpp",
+              "DocumentMoniker": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\PA9.hpp",
+              "RelativeDocumentMoniker": "SMLFProjectpa9\\PA9.hpp",
+              "ToolTip": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\PA9.hpp",
+              "RelativeToolTip": "SMLFProjectpa9\\PA9.hpp",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAACwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-25T01:47:33.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BodyPart.hpp",
+              "DocumentMoniker": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\BodyPart.hpp",
+              "RelativeDocumentMoniker": "SMLFProjectpa9\\BodyPart.hpp",
+              "ToolTip": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\BodyPart.hpp",
+              "RelativeToolTip": "SMLFProjectpa9\\BodyPart.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-25T02:45:03.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Hangman.cpp",
+              "DocumentMoniker": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\Hangman.cpp",
+              "RelativeDocumentMoniker": "SMLFProjectpa9\\Hangman.cpp",
+              "ToolTip": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\Hangman.cpp",
+              "RelativeToolTip": "SMLFProjectpa9\\Hangman.cpp",
+              "ViewState": "AQIAAKYAAAAANjMzMzMrwMMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-25T04:26:35.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Places.txt",
+              "DocumentMoniker": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\Places.txt",
+              "RelativeDocumentMoniker": "SMLFProjectpa9\\Places.txt",
+              "ToolTip": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\Places.txt",
+              "RelativeToolTip": "SMLFProjectpa9\\Places.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-25T01:47:33.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Torso.hpp",
+              "DocumentMoniker": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\Torso.hpp",
+              "RelativeDocumentMoniker": "SMLFProjectpa9\\Torso.hpp",
+              "ToolTip": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\Torso.hpp",
+              "RelativeToolTip": "SMLFProjectpa9\\Torso.hpp",
+              "ViewState": "AQIAAAIAAAA4MzMzM7MiwAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-25T04:10:33.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LeftLeg.hpp",
+              "DocumentMoniker": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\LeftLeg.hpp",
+              "RelativeDocumentMoniker": "SMLFProjectpa9\\LeftLeg.hpp",
+              "ToolTip": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\LeftLeg.hpp",
+              "RelativeToolTip": "SMLFProjectpa9\\LeftLeg.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-25T04:10:01.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LeftArm.hpp",
+              "DocumentMoniker": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\LeftArm.hpp",
+              "RelativeDocumentMoniker": "SMLFProjectpa9\\LeftArm.hpp",
+              "ToolTip": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\LeftArm.hpp",
+              "RelativeToolTip": "SMLFProjectpa9\\LeftArm.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-25T04:09:52.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Head.hpp",
+              "DocumentMoniker": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\Head.hpp",
+              "RelativeDocumentMoniker": "SMLFProjectpa9\\Head.hpp",
+              "ToolTip": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\Head.hpp",
+              "RelativeToolTip": "SMLFProjectpa9\\Head.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-25T04:09:33.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Head.cpp",
+              "DocumentMoniker": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\Head.cpp",
+              "RelativeDocumentMoniker": "SMLFProjectpa9\\Head.cpp",
+              "ToolTip": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\Head.cpp",
+              "RelativeToolTip": "SMLFProjectpa9\\Head.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-25T01:47:33.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\Game.cpp",
+              "RelativeDocumentMoniker": "SMLFProjectpa9\\Game.cpp",
+              "ToolTip": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\Game.cpp",
+              "RelativeToolTip": "SMLFProjectpa9\\Game.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-25T02:49:46.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Letter.hpp",
+              "DocumentMoniker": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\Letter.hpp",
+              "RelativeDocumentMoniker": "SMLFProjectpa9\\Letter.hpp",
+              "ToolTip": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\Letter.hpp",
+              "RelativeToolTip": "SMLFProjectpa9\\Letter.hpp",
+              "ViewState": "AQIAABUAAAAAAAAAAIBJwB0AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-25T02:45:41.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Word_Bank.h",
+              "DocumentMoniker": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\Word_Bank.h",
+              "RelativeDocumentMoniker": "SMLFProjectpa9\\Word_Bank.h",
+              "ToolTip": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\Word_Bank.h",
+              "RelativeToolTip": "SMLFProjectpa9\\Word_Bank.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-25T02:46:12.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Torso.cpp",
+              "DocumentMoniker": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\Torso.cpp",
+              "RelativeDocumentMoniker": "SMLFProjectpa9\\Torso.cpp",
+              "ToolTip": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\Torso.cpp",
+              "RelativeToolTip": "SMLFProjectpa9\\Torso.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-25T01:47:33.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BodyPart.cpp",
+              "DocumentMoniker": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\BodyPart.cpp",
+              "RelativeDocumentMoniker": "SMLFProjectpa9\\BodyPart.cpp",
+              "ToolTip": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\BodyPart.cpp",
+              "RelativeToolTip": "SMLFProjectpa9\\BodyPart.cpp",
+              "ViewState": "AQIAACQAAAAAAAAAAAAjwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-25T01:47:33.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LeftLeg.cpp",
+              "DocumentMoniker": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\LeftLeg.cpp",
+              "RelativeDocumentMoniker": "SMLFProjectpa9\\LeftLeg.cpp",
+              "ToolTip": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\LeftLeg.cpp",
+              "RelativeToolTip": "SMLFProjectpa9\\LeftLeg.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-25T01:47:33.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RightLeg.cpp",
+              "DocumentMoniker": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\RightLeg.cpp",
+              "RelativeDocumentMoniker": "SMLFProjectpa9\\RightLeg.cpp",
+              "ToolTip": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\RightLeg.cpp",
+              "RelativeToolTip": "SMLFProjectpa9\\RightLeg.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-25T01:47:33.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RightArm.cpp",
+              "DocumentMoniker": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\RightArm.cpp",
+              "RelativeDocumentMoniker": "SMLFProjectpa9\\RightArm.cpp",
+              "ToolTip": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\RightArm.cpp",
+              "RelativeToolTip": "SMLFProjectpa9\\RightArm.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-25T01:47:33.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LeftArm.cpp",
+              "DocumentMoniker": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\LeftArm.cpp",
+              "RelativeDocumentMoniker": "SMLFProjectpa9\\LeftArm.cpp",
+              "ToolTip": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\LeftArm.cpp",
+              "RelativeToolTip": "SMLFProjectpa9\\LeftArm.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-25T01:47:33.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Famous_People.txt",
+              "DocumentMoniker": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\Famous_People.txt",
+              "RelativeDocumentMoniker": "SMLFProjectpa9\\Famous_People.txt",
+              "ToolTip": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\Famous_People.txt",
+              "RelativeToolTip": "SMLFProjectpa9\\Famous_People.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-25T01:47:33.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Medium.txt",
+              "DocumentMoniker": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\Medium.txt",
+              "RelativeDocumentMoniker": "SMLFProjectpa9\\Medium.txt",
+              "ToolTip": "C:\\Users\\zapien\\Downloads\\CompletePA9\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9 - Copy (9)\\SMLFProjectpa9\\Medium.txt",
+              "RelativeToolTip": "SMLFProjectpa9\\Medium.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-25T01:47:33.872Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

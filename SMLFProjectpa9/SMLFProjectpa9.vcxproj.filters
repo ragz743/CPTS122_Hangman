@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header FIles">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Header FIles\BodyParts">
+      <UniqueIdentifier>{f0e2cbe9-6eb0-475b-9753-615bd3513a45}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\BodyParts">
+      <UniqueIdentifier>{018448e9-ae87-4147-ac80-c45d42f35654}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\RunGame">
+      <UniqueIdentifier>{87848db3-646c-4d4f-ab8d-40dc8f8a31cb}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="TestCases.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BodyPart.cpp">
+      <Filter>Source Files\BodyParts</Filter>
+    </ClCompile>
+    <ClCompile Include="Head.cpp">
+      <Filter>Source Files\BodyParts</Filter>
+    </ClCompile>
+    <ClCompile Include="LeftArm.cpp">
+      <Filter>Source Files\BodyParts</Filter>
+    </ClCompile>
+    <ClCompile Include="LeftLeg.cpp">
+      <Filter>Source Files\BodyParts</Filter>
+    </ClCompile>
+    <ClCompile Include="RightArm.cpp">
+      <Filter>Source Files\BodyParts</Filter>
+    </ClCompile>
+    <ClCompile Include="RightLeg.cpp">
+      <Filter>Source Files\BodyParts</Filter>
+    </ClCompile>
+    <ClCompile Include="Torso.cpp">
+      <Filter>Source Files\BodyParts</Filter>
+    </ClCompile>
+    <ClCompile Include="Hangman.cpp">
+      <Filter>Source Files\BodyParts</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source Files\RunGame</Filter>
+    </ClCompile>
+    <ClCompile Include="PA9.cpp">
+      <Filter>Source Files\RunGame</Filter>
+    </ClCompile>
+    <ClCompile Include="Word_Bank.cpp">
+      <Filter>Source Files\RunGame</Filter>
+    </ClCompile>
+    <ClCompile Include="Letter.cpp">
+      <Filter>Source Files\RunGame</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Game.hpp">
+      <Filter>Header FIles</Filter>
+    </ClInclude>
+    <ClInclude Include="Word_Bank.h">
+      <Filter>Header FIles</Filter>
+    </ClInclude>
+    <ClInclude Include="PA9.hpp">
+      <Filter>Header FIles</Filter>
+    </ClInclude>
+    <ClInclude Include="Letter.hpp">
+      <Filter>Header FIles</Filter>
+    </ClInclude>
+    <ClInclude Include="TestCases.hpp">
+      <Filter>Header FIles</Filter>
+    </ClInclude>
+    <ClInclude Include="BodyPart.hpp">
+      <Filter>Header FIles\BodyParts</Filter>
+    </ClInclude>
+    <ClInclude Include="Head.hpp">
+      <Filter>Header FIles\BodyParts</Filter>
+    </ClInclude>
+    <ClInclude Include="LeftArm.hpp">
+      <Filter>Header FIles\BodyParts</Filter>
+    </ClInclude>
+    <ClInclude Include="LeftLeg.hpp">
+      <Filter>Header FIles\BodyParts</Filter>
+    </ClInclude>
+    <ClInclude Include="RightArm.hpp">
+      <Filter>Header FIles\BodyParts</Filter>
+    </ClInclude>
+    <ClInclude Include="RightLeg.hpp">
+      <Filter>Header FIles\BodyParts</Filter>
+    </ClInclude>
+    <ClInclude Include="Torso.hpp">
+      <Filter>Header FIles\BodyParts</Filter>
+    </ClInclude>
+    <ClInclude Include="Hangman.hpp">
+      <Filter>Header FIles\BodyParts</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Easy.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Famous_People.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Hard.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Medium.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Places.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="readme.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

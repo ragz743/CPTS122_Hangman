@@ -1,0 +1,153 @@
+cmake_minimum_required(VERSION 3.27)
+project(CPTS_122_PA9)
+
+set(CMAKE_CXX_STANDARD 14)
+
+include_directories(sfml)
+include_directories(sfml/include)
+include_directories(sfml/include/SFML)
+include_directories(sfml/include/SFML/Audio)
+include_directories(sfml/include/SFML/Graphics)
+include_directories(sfml/include/SFML/Network)
+include_directories(sfml/include/SFML/System)
+include_directories(sfml/include/SFML/Window)
+include_directories(SMLFProjectpa9)
+
+add_executable(CPTS_122_PA9
+        sfml/include/SFML/Audio/AlResource.hpp
+        sfml/include/SFML/Audio/Export.hpp
+        sfml/include/SFML/Audio/InputSoundFile.hpp
+        sfml/include/SFML/Audio/Listener.hpp
+        sfml/include/SFML/Audio/Music.hpp
+        sfml/include/SFML/Audio/OutputSoundFile.hpp
+        sfml/include/SFML/Audio/Sound.hpp
+        sfml/include/SFML/Audio/SoundBuffer.hpp
+        sfml/include/SFML/Audio/SoundBufferRecorder.hpp
+        sfml/include/SFML/Audio/SoundFileFactory.hpp
+        sfml/include/SFML/Audio/SoundFileFactory.inl
+        sfml/include/SFML/Audio/SoundFileReader.hpp
+        sfml/include/SFML/Audio/SoundFileWriter.hpp
+        sfml/include/SFML/Audio/SoundRecorder.hpp
+        sfml/include/SFML/Audio/SoundSource.hpp
+        sfml/include/SFML/Audio/SoundStream.hpp
+        sfml/include/SFML/Graphics/BlendMode.hpp
+        sfml/include/SFML/Graphics/CircleShape.hpp
+        sfml/include/SFML/Graphics/Color.hpp
+        sfml/include/SFML/Graphics/ConvexShape.hpp
+        sfml/include/SFML/Graphics/Drawable.hpp
+        sfml/include/SFML/Graphics/Export.hpp
+        sfml/include/SFML/Graphics/Font.hpp
+        sfml/include/SFML/Graphics/Glsl.hpp
+        sfml/include/SFML/Graphics/Glsl.inl
+        sfml/include/SFML/Graphics/Glyph.hpp
+        sfml/include/SFML/Graphics/Image.hpp
+        sfml/include/SFML/Graphics/PrimitiveType.hpp
+        sfml/include/SFML/Graphics/Rect.hpp
+        sfml/include/SFML/Graphics/Rect.inl
+        sfml/include/SFML/Graphics/RectangleShape.hpp
+        sfml/include/SFML/Graphics/RenderStates.hpp
+        sfml/include/SFML/Graphics/RenderTarget.hpp
+        sfml/include/SFML/Graphics/RenderTexture.hpp
+        sfml/include/SFML/Graphics/RenderWindow.hpp
+        sfml/include/SFML/Graphics/Shader.hpp
+        sfml/include/SFML/Graphics/Shape.hpp
+        sfml/include/SFML/Graphics/Sprite.hpp
+        sfml/include/SFML/Graphics/Text.hpp
+        sfml/include/SFML/Graphics/Texture.hpp
+        sfml/include/SFML/Graphics/Transform.hpp
+        sfml/include/SFML/Graphics/Transformable.hpp
+        sfml/include/SFML/Graphics/Vertex.hpp
+        sfml/include/SFML/Graphics/VertexArray.hpp
+        sfml/include/SFML/Graphics/VertexBuffer.hpp
+        sfml/include/SFML/Graphics/View.hpp
+        sfml/include/SFML/Network/Export.hpp
+        sfml/include/SFML/Network/Ftp.hpp
+        sfml/include/SFML/Network/Http.hpp
+        sfml/include/SFML/Network/IpAddress.hpp
+        sfml/include/SFML/Network/Packet.hpp
+        sfml/include/SFML/Network/Socket.hpp
+        sfml/include/SFML/Network/SocketHandle.hpp
+        sfml/include/SFML/Network/SocketSelector.hpp
+        sfml/include/SFML/Network/TcpListener.hpp
+        sfml/include/SFML/Network/TcpSocket.hpp
+        sfml/include/SFML/Network/UdpSocket.hpp
+        sfml/include/SFML/System/Clock.hpp
+        sfml/include/SFML/System/Err.hpp
+        sfml/include/SFML/System/Export.hpp
+        sfml/include/SFML/System/FileInputStream.hpp
+        sfml/include/SFML/System/InputStream.hpp
+        sfml/include/SFML/System/Lock.hpp
+        sfml/include/SFML/System/MemoryInputStream.hpp
+        sfml/include/SFML/System/Mutex.hpp
+        sfml/include/SFML/System/NativeActivity.hpp
+        sfml/include/SFML/System/NonCopyable.hpp
+        sfml/include/SFML/System/Sleep.hpp
+        sfml/include/SFML/System/String.hpp
+        sfml/include/SFML/System/String.inl
+        sfml/include/SFML/System/Thread.hpp
+        sfml/include/SFML/System/Thread.inl
+        sfml/include/SFML/System/ThreadLocal.hpp
+        sfml/include/SFML/System/ThreadLocalPtr.hpp
+        sfml/include/SFML/System/ThreadLocalPtr.inl
+        sfml/include/SFML/System/Time.hpp
+        sfml/include/SFML/System/Utf.hpp
+        sfml/include/SFML/System/Utf.inl
+        sfml/include/SFML/System/Vector2.hpp
+        sfml/include/SFML/System/Vector2.inl
+        sfml/include/SFML/System/Vector3.hpp
+        sfml/include/SFML/System/Vector3.inl
+        sfml/include/SFML/Window/Clipboard.hpp
+        sfml/include/SFML/Window/Context.hpp
+        sfml/include/SFML/Window/ContextSettings.hpp
+        sfml/include/SFML/Window/Cursor.hpp
+        sfml/include/SFML/Window/Event.hpp
+        sfml/include/SFML/Window/Export.hpp
+        sfml/include/SFML/Window/GlResource.hpp
+        sfml/include/SFML/Window/Joystick.hpp
+        sfml/include/SFML/Window/Keyboard.hpp
+        sfml/include/SFML/Window/Mouse.hpp
+        sfml/include/SFML/Window/Sensor.hpp
+        sfml/include/SFML/Window/Touch.hpp
+        sfml/include/SFML/Window/VideoMode.hpp
+        sfml/include/SFML/Window/Vulkan.hpp
+        sfml/include/SFML/Window/Window.hpp
+        sfml/include/SFML/Window/WindowBase.hpp
+        sfml/include/SFML/Window/WindowHandle.hpp
+        sfml/include/SFML/Window/WindowStyle.hpp
+        sfml/include/SFML/Audio.hpp
+        sfml/include/SFML/Config.hpp
+        sfml/include/SFML/GpuPreference.hpp
+        sfml/include/SFML/Graphics.hpp
+        sfml/include/SFML/Main.hpp
+        sfml/include/SFML/Network.hpp
+        sfml/include/SFML/OpenGL.hpp
+        sfml/include/SFML/System.hpp
+        sfml/include/SFML/Window.hpp
+        SMLFProjectpa9/BodyPart.cpp
+        SMLFProjectpa9/BodyPart.hpp
+        SMLFProjectpa9/FunctionsToRunHangMan.hpp
+        SMLFProjectpa9/Game.cpp
+        SMLFProjectpa9/Game.hpp
+        SMLFProjectpa9/Hangman.cpp
+        SMLFProjectpa9/Hangman.hpp
+        SMLFProjectpa9/Head.cpp
+        SMLFProjectpa9/Head.hpp
+        SMLFProjectpa9/LeftArm.cpp
+        SMLFProjectpa9/LeftArm.hpp
+        SMLFProjectpa9/LeftLeg.cpp
+        SMLFProjectpa9/LeftLeg.hpp
+        SMLFProjectpa9/Letter.cpp
+        SMLFProjectpa9/Letter.hpp
+        SMLFProjectpa9/main.cpp
+        SMLFProjectpa9/PA9.cpp
+        SMLFProjectpa9/PA9.hpp
+        SMLFProjectpa9/RightArm.cpp
+        SMLFProjectpa9/RightArm.hpp
+        SMLFProjectpa9/RightLeg.cpp
+        SMLFProjectpa9/RightLeg.hpp
+        SMLFProjectpa9/TestCases.cpp
+        SMLFProjectpa9/TestCases.hpp
+        SMLFProjectpa9/Torso.cpp
+        SMLFProjectpa9/Torso.hpp
+        SMLFProjectpa9/Word_Bank.cpp
+        SMLFProjectpa9/Word_Bank.h)
